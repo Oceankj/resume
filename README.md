@@ -1,1 +1,1 @@
-[![PDF Preview](./FontendResume.pdf)](./FontendResume.pdf)
+[![PDF Preview](./fontend_resume.png)](./FontendResume.pdf)
