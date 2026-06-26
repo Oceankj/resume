@@ -1,1 +1,1 @@
-[![PDF Preview](./SoftwareDeveloperResume.png)](./SoftwareDeveloperResume.pdf)
+[![PDF Preview](./FontendResume.pdf)](./FontendResume.pdf)
